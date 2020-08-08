@@ -1,0 +1,2 @@
+# tushare_stock_download
+通过tushare下载股市数据到本地mysql
